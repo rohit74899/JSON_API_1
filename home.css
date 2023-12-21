@@ -1,0 +1,17 @@
+/* Basic styling for the product table */
+.product-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.product-table th, .product-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for the line between products */
+.product-row {
+    border-bottom: 1px solid #ddd;
+}
